@@ -1,0 +1,28 @@
+ <!DOCTYPE html>
+<html>
+<head>
+    <title>Who The Fuck Is You?</title>
+</head>
+<body>
+<br>
+<form>
+    <label for="pswd">Scan yer balls: </label>
+    <input type="password" id="pswd">
+    <input type="button" value="Go" onclick="checkPswd();" />
+</form>
+<!--Function to check password the already set password is admin-->
+<script type="text/javascript">
+    function checkPswd() {
+        var confirmPassword = "lol";
+        var password = document.getElementById("pswd").value;
+        if (password == confirmPassword) {
+             window.location="poiuytrewq.html";
+        }
+        else{
+            alert("go away");
+             window.location="fuckoff.html";
+        }
+    }
+</script>
+</body>
+</html>
