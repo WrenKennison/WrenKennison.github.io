@@ -6,11 +6,30 @@ body {
 
 }
 
-p,h1,h2,h3,h4,h5 {
+
+.right {
+  float: right;
+  
+}
+
+.center {
+  text-align: center;
+  margin: 0 auto;
+  
+}
+
+#left {
+  float: left;
+  
+}
+
+
+p,h1,h2,h3,h4,h5,nav{
   color: white;
-  background: rgba(0, 0, 0, .5);
+  background: rgba(0, 0, 0, .7);
   display: inline-block;
   font-family: Consolas;
   opacity: 1;
+  margin-right: auto;
   
 }
