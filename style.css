@@ -212,6 +212,19 @@ table {
   html { scroll-behavior: smooth; }
 }
 
+div[id="rightthing"] {
+  text-align: right;
+
+}
+
+div[id="midthing"] {
+  align: center;
+}
+
+/* Hide content visually, but allow screen readers to read the
+ * content. Note that for Accessibility guidelines, this content
+ * must become visible if toggled over using a keyboard. */
+
 /* Hide content visually, but allow screen readers to read the
  * content. Note that for Accessibility guidelines, this content
  * must become visible if toggled over using a keyboard. */
