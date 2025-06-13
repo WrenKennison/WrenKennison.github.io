@@ -1,0 +1,16 @@
+
+body {
+  background-image: url('image/treesbackground.jpg');
+  background-size: cover;
+  z-index: -2;
+
+}
+
+p,h1,h2,h3,h4,h5 {
+  color: white;
+  background: rgba(0, 0, 0, .5);
+  display: inline-block;
+  font-family: Consolas;
+  opacity: 1;
+  
+}
