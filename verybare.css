@@ -3,9 +3,9 @@ body {
   background-image: url('image/treesbackground.jpg');
   background-size: cover;
   z-index: -2;
-
+  max-width: 400px;
+  font-family: monospace;
 }
-
 
 .right {
   float: right;
@@ -22,7 +22,6 @@ body {
   float: left;
   
 }
-
 
 p,h1,h2,h3,h4,h5,nav{
   color: white;

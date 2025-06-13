@@ -102,15 +102,6 @@ splash[98] = "... is very, very, very shy.";
 splash[99] = "<i>'Free Palestine'</i> -Me";
 splash[100] = "Androdgynous";
 
-
-
-
-
-
-
-
-
 RandomNumber = Math.floor(Math.random() * splash.length);
-//Math.floor(Math.random() * splash.length)
 
 document.write(splash[RandomNumber]);
