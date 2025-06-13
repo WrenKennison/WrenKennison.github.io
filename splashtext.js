@@ -26,7 +26,7 @@ splash[22] = "... is scared of women, and men too";
 splash[23] = "<i>'Holiday Road'</i> -Lindsey Buckingham";
 splash[24] = "... drums better than a bad drummer but worse than a good one";
 splash[25] = "... disagreed with someone once";
-splash[26] = "<i>'Down with Traitor Joe'</i> -the bassist";
+splash[26] = "<i>'Down with Traitor Joes'</i> -the bassist";
 splash[27] = "... builds a lighthouse that cannot be seen";
 splash[28] = "... wants a divorce";
 splash[29] = "... is sickened by his greed";
@@ -35,7 +35,7 @@ splash[31] = "... loves everyone except cops";
 splash[32] = "Download TRAINZ 2009 for FREE today!";
 splash[33] = "... loves Boris the dog";
 splash[34] = "... loves Dido the cat";
-splash[35] = "Fun Fact: Elon Musk is carrying my child";
+splash[35] = "Elon Musk is carrying my child";
 splash[36] = "<i>'Down with the woke agenda'</i> -me";
 splash[37] = "... dreams of ICE agents burning in hell";
 splash[38] = "and now for something completely different.";
@@ -52,7 +52,7 @@ splash[48] = "... was on the grassy knoll";
 splash[49] = "... refuses to play solo";
 splash[50] = "... LOVES the Obliques";
 splash[51] = "... HATES the Obliques";
-splash[52] = "... doesn't know who kate is either";
+splash[52] = "";
 splash[53] = "... fw with jambalaya heavily";
 splash[54] = "... is doxxing a bird";
 splash[55] = "... misses sinbad the cat";
@@ -84,6 +84,32 @@ splash[80] = "I love my husband";
 splash[81] = "I will end my life on October 19 2032";
 splash[82] = "Ted Cruz ate my son";
 splash[83] = "I ate Ted Cruz's son";
+splash[84] = "<i>'Fuck the LAPD'</i> -Me";
+splash[85] = "... is buried in M17";
+splash[86] = "it haled";
+splash[87] = "it raind";
+splash[88] = "... did not wait by the door an hour or so";
+splash[89] = "... forgot how to breathe once";
+splash[90] = "anti transport, anti-human.";
+splash[91] = "Fuck the Fire Department";
+splash[92] = "I LOVE SOUTHWEST AIRLINES!!!!!!";
+splash[93] = "... is usually detatched from reality";
+splash[94] = "... is melting";
+splash[95] = "'Count your days, Lennon'";
+splash[96] = "... is very clean";
+splash[97] = "... carn`t spel";
+splash[98] = "... is very, very, very shy.";
+splash[99] = "<i>'Free Palestine'</i> -Me";
+splash[100] = "Androdgynous";
+
+
+
+
+
+
+
+
+
 
 RandomNumber = Math.floor(Math.random() * splash.length);
 //Math.floor(Math.random() * splash.length)
