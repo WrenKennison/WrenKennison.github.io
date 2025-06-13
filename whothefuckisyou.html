@@ -10,12 +10,15 @@
     <input type="password" id="pswd">
     <input type="button" value="Go" onclick="checkPswd();" />
 </form>
-<!--Function to check password the already set password is admin-->
+<!--MASSIVE NOTE TO FUTURE SELF: this is a trap. anyone brute forcing into the poiuytrewq page 
+gets an instant redirect to a site which downloads a 4 yottabite zip bomb and runs it -->
 <script type="text/javascript">
+
     function checkPswd() {
-        var confirmPassword = "lol";
+        var confirmPassword = "READTHENOTE";
         var password = document.getElementById("pswd").value;
         if (password == confirmPassword) {
+
              window.location="poiuytrewq.html";
         }
         else{
