@@ -52,7 +52,7 @@ splash[48] = "... was on the grassy knoll";
 splash[49] = "... refuses to play solo";
 splash[50] = "... LOVES the Obliques";
 splash[51] = "... HATES the Obliques";
-splash[52] = "";
+splash[52] = "... ow";
 splash[53] = "... fw with jambalaya heavily";
 splash[54] = "... is doxxing a bird";
 splash[55] = "... misses sinbad the cat";
@@ -101,7 +101,6 @@ splash[97] = "... carn`t spel";
 splash[98] = "... is very, very, very shy.";
 splash[99] = "<i>'Free Palestine'</i> -Me";
 splash[100] = "Androdgynous";
-
 
 
 
