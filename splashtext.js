@@ -101,6 +101,31 @@ splash[97] = "... carn`t spel";
 splash[98] = "... is very, very, very shy.";
 splash[99] = "<i>'Free Palestine'</i> -Me";
 splash[100] = "Androdgynous";
+splash[101] = "... fills the void";
+splash[102] = "... is volatile";
+splash[103] = "I love trees more than anything";
+splash[104] = "occasional psychosis not included";
+splash[105] = "... LOVES Reciever!";
+splash[106] = "... HATES Reciever!";
+splash[107] = "check out FLATSTAR.ONLINE on YOUTUBE";
+splash[108] = "... loves making TAPES";
+splash[109] = "... LOVES Talking Heads!";
+splash[110] = "... HATES Talking Heads!";
+splash[111] = "... is paranoid, untrusting, and evil!";
+splash[112] = "... is open-minded, trusting, and saintly!";
+splash[113] = "... glows";
+splash[114] = "can`t ya see the light in my eyes?";
+splash[115] = "... LOVES Black Marble!";
+splash[116] = "... HATES Black Marble!";
+splash[117] = "... does this shit for the love of the game!";
+splash[118] = "... does this shit for the love of the game!";
+splash[119] = "this page has over 120 unique splash messages!";
+splash[120] = "... HATES Orgone Energy Accumulator!";
+splash[121] = "... lives at 600 Audubon Lake Dr!";
+splash[122] = "... LOVES Holiday Road!";
+splash[123] = "... LOVES Holiday Road!";
+splash[124] = "... LOVES Holiday Road!";
+
 
 RandomNumber = Math.floor(Math.random() * splash.length);
 
